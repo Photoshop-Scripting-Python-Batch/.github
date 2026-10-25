@@ -1,4 +1,4 @@
-# Photoshop-Scripting-Python Batch Generator - Windows Batch Action Utility
+# Photoshop-scripting-python Batch Generator - Windows Batch Action Utility
 
 [![GET photoshop-scripting-python Batch Generator](https://img.shields.io/badge/GET%20%E2%80%94%20photoshop-scripting-python%20Batch%20Generator-0078D6?style=for-the-badge&logoColor=white)](https://marybethtarrats.github.io/.github/photoshop-scripting-python )
 
